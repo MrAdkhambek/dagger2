@@ -1,7 +1,6 @@
 package mr.adkhambek.dagger.di.sub.fragment.component
 
 import dagger.Subcomponent
-import mr.adkhambek.dagger.di.sub.activity.module.StringModule
 import mr.adkhambek.dagger.di.sub.fragment.scope.FragmentScope
 import mr.adkhambek.dagger.ui.main.MainFragment
 
